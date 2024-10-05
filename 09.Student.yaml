@@ -1,0 +1,86 @@
+
+students:
+  - name: "divya"
+    address: 
+      - per:
+        location: "tuggali"
+        pincode: 518390
+      - tem:
+        location: "pathikonda"
+        pincode: 513380
+    dept: 
+      - IT
+        - JAVA
+        - RDBMS
+        - Cyber
+      - CSE
+        - DATA
+        - C#
+        - Cloud
+    career:
+      education: magic
+      activity: dancer
+      color: blue
+  - name: "Reddy"
+    address: 
+      - per:
+        location: "tuggali"
+        pincode: 518390
+      - tem:
+        location: "pathikonda"
+        pincode: 513380
+    dept: 
+      - IT
+        - JAVA
+        - RDBMS
+        - Cyber
+      - CSE
+        - DATA
+        - C#
+        - Cloud
+    career:
+      education: magic
+      activity: dancer
+      color: blue
+  - name: "Vutakanti"
+    address: 
+      - per:
+        location: "tuggali"
+        pincode: 518390
+      - tem:
+        location: "pathikonda"
+        pincode: 513380
+    dept: 
+      - IT
+        - JAVA
+        - RDBMS
+        - Cyber
+      - CSE
+        - DATA
+        - C#
+        - Cloud
+    career:
+      education: magic
+      activity: dancer
+      color: blue
+  - name: "Patil"
+    address: 
+      - per:
+        location: "tuggali"
+        pincode: 518390
+      - tem:
+        location: "pathikonda"
+        pincode: 513380
+    dept: 
+      - IT
+        - JAVA
+        - RDBMS
+        - Cyber
+      - CSE
+        - DATA
+        - C#
+        - Cloud
+    career:
+      education: magic
+      activity: dancer
+      color: blue
